@@ -3,11 +3,11 @@
   <title>HermitLSR&#39;Blog</title>
   
   
-  <link href="https://www.hermitlsr.top/atom.xml" rel="self"/>
+  <link href="https://volantis.hermitlsr.top/atom.xml" rel="self"/>
   
-  <link href="https://www.hermitlsr.top/"/>
+  <link href="https://volantis.hermitlsr.top/"/>
   <updated>2021-07-14T15:55:21.975Z</updated>
-  <id>https://www.hermitlsr.top/</id>
+  <id>https://volantis.hermitlsr.top/</id>
   
   <author>
     <name>hermitlsr</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>菜谱</title>
-    <link href="https://www.hermitlsr.top/2021-07-13/70a7eda9.html"/>
-    <id>https://www.hermitlsr.top/2021-07-13/70a7eda9.html</id>
+    <link href="https://volantis.hermitlsr.top/2021-07-13/70a7eda9.html"/>
+    <id>https://volantis.hermitlsr.top/2021-07-13/70a7eda9.html</id>
     <published>2021-07-13T04:55:04.000Z</published>
     <updated>2021-07-14T15:55:21.975Z</updated>
     
@@ -35,8 +35,8 @@
   
   <entry>
     <title>R语言的久远学习笔记--参数估计</title>
-    <link href="https://www.hermitlsr.top/2021-07-12/a251816e.html"/>
-    <id>https://www.hermitlsr.top/2021-07-12/a251816e.html</id>
+    <link href="https://volantis.hermitlsr.top/2021-07-12/a251816e.html"/>
+    <id>https://volantis.hermitlsr.top/2021-07-12/a251816e.html</id>
     <published>2021-07-12T03:22:51.000Z</published>
     <updated>2021-07-13T04:49:06.718Z</updated>
     
@@ -47,21 +47,21 @@
     
     
     
-    <category term="R" scheme="https://www.hermitlsr.top/categories/R/"/>
+    <category term="R" scheme="https://volantis.hermitlsr.top/categories/R/"/>
     
-    <category term="学习笔记" scheme="https://www.hermitlsr.top/categories/R/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    <category term="学习笔记" scheme="https://volantis.hermitlsr.top/categories/R/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
     
     
-    <category term="R" scheme="https://www.hermitlsr.top/tags/R/"/>
+    <category term="R" scheme="https://volantis.hermitlsr.top/tags/R/"/>
     
-    <category term="参数估计" scheme="https://www.hermitlsr.top/tags/%E5%8F%82%E6%95%B0%E4%BC%B0%E8%AE%A1/"/>
+    <category term="参数估计" scheme="https://volantis.hermitlsr.top/tags/%E5%8F%82%E6%95%B0%E4%BC%B0%E8%AE%A1/"/>
     
   </entry>
   
   <entry>
     <title>建站序言</title>
-    <link href="https://www.hermitlsr.top/2021-06-28/18ee7c87.html"/>
-    <id>https://www.hermitlsr.top/2021-06-28/18ee7c87.html</id>
+    <link href="https://volantis.hermitlsr.top/2021-06-28/18ee7c87.html"/>
+    <id>https://volantis.hermitlsr.top/2021-06-28/18ee7c87.html</id>
     <published>2021-06-28T02:38:05.000Z</published>
     <updated>2021-07-13T04:04:35.979Z</updated>
     
@@ -77,8 +77,8 @@
   
   <entry>
     <title>Volantis 建站记录</title>
-    <link href="https://www.hermitlsr.top/2021-06-26/40ecd548.html"/>
-    <id>https://www.hermitlsr.top/2021-06-26/40ecd548.html</id>
+    <link href="https://volantis.hermitlsr.top/2021-06-26/40ecd548.html"/>
+    <id>https://volantis.hermitlsr.top/2021-06-26/40ecd548.html</id>
     <published>2021-06-26T14:04:56.000Z</published>
     <updated>2021-07-22T11:47:04.108Z</updated>
     
@@ -89,21 +89,21 @@
     
     
     
-    <category term="Hexo" scheme="https://www.hermitlsr.top/categories/Hexo/"/>
+    <category term="Hexo" scheme="https://volantis.hermitlsr.top/categories/Hexo/"/>
     
-    <category term="建站" scheme="https://www.hermitlsr.top/categories/Hexo/%E5%BB%BA%E7%AB%99/"/>
+    <category term="建站" scheme="https://volantis.hermitlsr.top/categories/Hexo/%E5%BB%BA%E7%AB%99/"/>
     
     
-    <category term="Hexo" scheme="https://www.hermitlsr.top/tags/Hexo/"/>
+    <category term="Hexo" scheme="https://volantis.hermitlsr.top/tags/Hexo/"/>
     
-    <category term="Volantis" scheme="https://www.hermitlsr.top/tags/Volantis/"/>
+    <category term="Volantis" scheme="https://volantis.hermitlsr.top/tags/Volantis/"/>
     
   </entry>
   
   <entry>
     <title>时序分析-ARMA(1,1)和AR(2)自相关函数的R语言实现</title>
-    <link href="https://www.hermitlsr.top/2021-06-23/69ad6eed.html"/>
-    <id>https://www.hermitlsr.top/2021-06-23/69ad6eed.html</id>
+    <link href="https://volantis.hermitlsr.top/2021-06-23/69ad6eed.html"/>
+    <id>https://volantis.hermitlsr.top/2021-06-23/69ad6eed.html</id>
     <published>2021-06-23T14:05:58.000Z</published>
     <updated>2021-07-13T04:04:35.975Z</updated>
     
@@ -114,23 +114,23 @@
     
     
     
-    <category term="时序分析" scheme="https://www.hermitlsr.top/categories/%E6%97%B6%E5%BA%8F%E5%88%86%E6%9E%90/"/>
+    <category term="时序分析" scheme="https://volantis.hermitlsr.top/categories/%E6%97%B6%E5%BA%8F%E5%88%86%E6%9E%90/"/>
     
-    <category term="学习笔记" scheme="https://www.hermitlsr.top/categories/%E6%97%B6%E5%BA%8F%E5%88%86%E6%9E%90/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    <category term="学习笔记" scheme="https://volantis.hermitlsr.top/categories/%E6%97%B6%E5%BA%8F%E5%88%86%E6%9E%90/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
     
     
-    <category term="R" scheme="https://www.hermitlsr.top/tags/R/"/>
+    <category term="时序分析" scheme="https://volantis.hermitlsr.top/tags/%E6%97%B6%E5%BA%8F%E5%88%86%E6%9E%90/"/>
     
-    <category term="时序分析" scheme="https://www.hermitlsr.top/tags/%E6%97%B6%E5%BA%8F%E5%88%86%E6%9E%90/"/>
+    <category term="R" scheme="https://volantis.hermitlsr.top/tags/R/"/>
     
-    <category term="ARMA" scheme="https://www.hermitlsr.top/tags/ARMA/"/>
+    <category term="ARMA" scheme="https://volantis.hermitlsr.top/tags/ARMA/"/>
     
   </entry>
   
   <entry>
     <title>R语言的久远学习笔记--图形功能</title>
-    <link href="https://www.hermitlsr.top/2021-06-23/4a9bb1b.html"/>
-    <id>https://www.hermitlsr.top/2021-06-23/4a9bb1b.html</id>
+    <link href="https://volantis.hermitlsr.top/2021-06-23/4a9bb1b.html"/>
+    <id>https://volantis.hermitlsr.top/2021-06-23/4a9bb1b.html</id>
     <published>2021-06-23T03:58:21.000Z</published>
     <updated>2021-07-13T04:49:06.722Z</updated>
     
@@ -141,21 +141,21 @@
     
     
     
-    <category term="R" scheme="https://www.hermitlsr.top/categories/R/"/>
+    <category term="R" scheme="https://volantis.hermitlsr.top/categories/R/"/>
     
-    <category term="学习笔记" scheme="https://www.hermitlsr.top/categories/R/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    <category term="学习笔记" scheme="https://volantis.hermitlsr.top/categories/R/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
     
     
-    <category term="R" scheme="https://www.hermitlsr.top/tags/R/"/>
+    <category term="R" scheme="https://volantis.hermitlsr.top/tags/R/"/>
     
-    <category term="绘图" scheme="https://www.hermitlsr.top/tags/%E7%BB%98%E5%9B%BE/"/>
+    <category term="绘图" scheme="https://volantis.hermitlsr.top/tags/%E7%BB%98%E5%9B%BE/"/>
     
   </entry>
   
   <entry>
     <title>R语言的久远学习笔记--概率分布</title>
-    <link href="https://www.hermitlsr.top/2021-06-23/f8ed4dd0.html"/>
-    <id>https://www.hermitlsr.top/2021-06-23/f8ed4dd0.html</id>
+    <link href="https://volantis.hermitlsr.top/2021-06-23/f8ed4dd0.html"/>
+    <id>https://volantis.hermitlsr.top/2021-06-23/f8ed4dd0.html</id>
     <published>2021-06-23T03:53:30.000Z</published>
     <updated>2021-07-13T04:53:06.880Z</updated>
     
@@ -166,21 +166,21 @@
     
     
     
-    <category term="R" scheme="https://www.hermitlsr.top/categories/R/"/>
+    <category term="R" scheme="https://volantis.hermitlsr.top/categories/R/"/>
     
-    <category term="学习笔记" scheme="https://www.hermitlsr.top/categories/R/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    <category term="学习笔记" scheme="https://volantis.hermitlsr.top/categories/R/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
     
     
-    <category term="R" scheme="https://www.hermitlsr.top/tags/R/"/>
+    <category term="R" scheme="https://volantis.hermitlsr.top/tags/R/"/>
     
-    <category term="概率分布" scheme="https://www.hermitlsr.top/tags/%E6%A6%82%E7%8E%87%E5%88%86%E5%B8%83/"/>
+    <category term="概率分布" scheme="https://volantis.hermitlsr.top/tags/%E6%A6%82%E7%8E%87%E5%88%86%E5%B8%83/"/>
     
   </entry>
   
   <entry>
     <title>Hexo 文章永久链接设置</title>
-    <link href="https://www.hermitlsr.top/2021-06-22/e83798a9.html"/>
-    <id>https://www.hermitlsr.top/2021-06-22/e83798a9.html</id>
+    <link href="https://volantis.hermitlsr.top/2021-06-22/e83798a9.html"/>
+    <id>https://volantis.hermitlsr.top/2021-06-22/e83798a9.html</id>
     <published>2021-06-22T15:51:12.000Z</published>
     <updated>2021-07-13T04:49:06.730Z</updated>
     
@@ -192,19 +192,19 @@
     
     
     
-    <category term="Hexo" scheme="https://www.hermitlsr.top/categories/Hexo/"/>
+    <category term="Hexo" scheme="https://volantis.hermitlsr.top/categories/Hexo/"/>
     
-    <category term="写作技巧" scheme="https://www.hermitlsr.top/categories/Hexo/%E5%86%99%E4%BD%9C%E6%8A%80%E5%B7%A7/"/>
+    <category term="写作技巧" scheme="https://volantis.hermitlsr.top/categories/Hexo/%E5%86%99%E4%BD%9C%E6%8A%80%E5%B7%A7/"/>
     
     
-    <category term="Hexo" scheme="https://www.hermitlsr.top/tags/Hexo/"/>
+    <category term="Hexo" scheme="https://volantis.hermitlsr.top/tags/Hexo/"/>
     
   </entry>
   
   <entry>
     <title>时序分析-确定性趋势参数估计</title>
-    <link href="https://www.hermitlsr.top/2021-06-22/2abc08a6.html"/>
-    <id>https://www.hermitlsr.top/2021-06-22/2abc08a6.html</id>
+    <link href="https://volantis.hermitlsr.top/2021-06-22/2abc08a6.html"/>
+    <id>https://volantis.hermitlsr.top/2021-06-22/2abc08a6.html</id>
     <published>2021-06-22T09:38:44.000Z</published>
     <updated>2021-07-13T04:04:35.972Z</updated>
     
@@ -215,21 +215,21 @@
     
     
     
-    <category term="时序分析" scheme="https://www.hermitlsr.top/categories/%E6%97%B6%E5%BA%8F%E5%88%86%E6%9E%90/"/>
+    <category term="时序分析" scheme="https://volantis.hermitlsr.top/categories/%E6%97%B6%E5%BA%8F%E5%88%86%E6%9E%90/"/>
     
-    <category term="学习笔记" scheme="https://www.hermitlsr.top/categories/%E6%97%B6%E5%BA%8F%E5%88%86%E6%9E%90/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    <category term="学习笔记" scheme="https://volantis.hermitlsr.top/categories/%E6%97%B6%E5%BA%8F%E5%88%86%E6%9E%90/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
     
     
-    <category term="R" scheme="https://www.hermitlsr.top/tags/R/"/>
+    <category term="时序分析" scheme="https://volantis.hermitlsr.top/tags/%E6%97%B6%E5%BA%8F%E5%88%86%E6%9E%90/"/>
     
-    <category term="时序分析" scheme="https://www.hermitlsr.top/tags/%E6%97%B6%E5%BA%8F%E5%88%86%E6%9E%90/"/>
+    <category term="R" scheme="https://volantis.hermitlsr.top/tags/R/"/>
     
   </entry>
   
   <entry>
     <title>R语言的久远学习笔记--数据结构</title>
-    <link href="https://www.hermitlsr.top/2021-06-22/75c03109.html"/>
-    <id>https://www.hermitlsr.top/2021-06-22/75c03109.html</id>
+    <link href="https://volantis.hermitlsr.top/2021-06-22/75c03109.html"/>
+    <id>https://volantis.hermitlsr.top/2021-06-22/75c03109.html</id>
     <published>2021-06-22T09:02:03.000Z</published>
     <updated>2021-07-13T04:49:06.714Z</updated>
     
@@ -240,12 +240,12 @@
     
     
     
-    <category term="R" scheme="https://www.hermitlsr.top/categories/R/"/>
+    <category term="R" scheme="https://volantis.hermitlsr.top/categories/R/"/>
     
-    <category term="学习笔记" scheme="https://www.hermitlsr.top/categories/R/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    <category term="学习笔记" scheme="https://volantis.hermitlsr.top/categories/R/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
     
     
-    <category term="R" scheme="https://www.hermitlsr.top/tags/R/"/>
+    <category term="R" scheme="https://volantis.hermitlsr.top/tags/R/"/>
     
   </entry>
   
